@@ -13,6 +13,15 @@ Get started with workshop authoring from the [wiki](https://github.com/Kiwifruit
 - [Discussions](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/discussions/)
 - [Wiki](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/wiki/)
 
-## Links
-- [Steam Workshop](https://steamcommunity.com/app/2516360/workshop/)
-- [Discord](https://discord.gg/8ppmspR6Wh)
+## Links:
+<a href="https://store.steampowered.com/app/2516360/Nonsensical_Video_Generator/" target="_blank" alt="Nonsensical Video Generator Store Page" title="Steam Store Page">
+  <img width=25% src="https://i.imgur.com/Dc34oSC.png">
+</a>
+<br>
+<a href="https://steamcommunity.com/app/2516360/workshop/" target="_blank" alt="Nonsensical Video Generator Steam Workshop" title="Steam Workshop">
+  <img width=25% src="https://i.imgur.com/Bz3Nf6O.png">
+</a>
+<br>
+<a href="https://discord.gg/8ppmspR6Wh" target="_blank" alt="Nonsensical Video Generator Discord" title="Discord">
+  <img width=25% src="https://i.imgur.com/X5CC4vv.png">
+</a>
