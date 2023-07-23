@@ -1,6 +1,5 @@
 name: Bug Report
 description: Report a problem with the software
-title: "[Bug] "
 labels: ["Bug Report"]
 assignees:
   - kiwifruitdev
@@ -52,7 +51,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        These parts are optional, but they can help us reproduce the bug more easily.
+        **The next section is optional, but its information can help us reproduce the bug more easily.**
   - type: textarea
     id: reproduction
     attributes:
@@ -71,7 +70,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Feel free to upload any files that may help us reproduce the bug.
+        **The next section is optional, but feel free to upload any relevant files.**
   - type: input
     id: log
     attributes:
@@ -99,3 +98,32 @@ body:
     attributes:
       label: Screenshots
       description: Please upload any screenshots as an album to Imgur or a similar service and paste the link here.
+  - type: markdown
+    attributes:
+      value: |
+        **The next section is optional, but feel free to fill it out if you have any additional information.**
+  - type: checkboxes
+    id: proton
+    attributes:
+      label: Proton Version
+      description: If using non-Windows, which Proton versions have you tried?
+      options:
+        - Ge-Proton7-30
+        - Proton Experimental
+        - Proton 8.0-3
+        - Proton 7.0-6
+        - Proton 6.3-8
+        - Proton 5.13-6
+        - Proton 5.0-10
+        - Proton 4.11-13
+        - Proton 4.2-9
+        - Proton 3.16-9
+        - Proton 3.7-8
+        - Proton Hotfix
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: |
+        If you would like to be contacted about this bug privately, please enter your contact information here.
+        Otherwise, leave this blank.
