@@ -14,34 +14,34 @@ body:
     attributes:
       label: Software Version
       description: Which version of the software are you using?
+      options:
+        - Steam Release
+        - Pirated or Cracked
     validations:
       required: true
-    options:
-      - Steam Release
-      - Pirated or Cracked
   - type: dropdown
     id: platform
     attributes:
       label: Platform
       description: Which platform are you using?
+      options:
+        - Windows
+        - SteamOS (Steam Deck)
+        - Linux
+        - macOS
     validations:
       required: true
-    options:
-      - Windows
-      - SteamOS (Steam Deck)
-      - Linux
-      - macOS
   - type: dropdown
     id: severity
     attributes:
       label: Severity
       description: Please describe the severity of the bug.
+      options:
+        - Critical
+        - Minor
+        - Cosmetic
     validations:
       required: true
-    options:
-      - Critical
-      - Minor
-      - Cosmetic
   - type: textarea
     id: description
     attributes:
