@@ -9,13 +9,23 @@ body:
       value: |
         Please fill out the sections below to help us reproduce and fix the bug as quickly as possible.
   - type: dropdown
-    id: version
+    id: release
     attributes:
-      label: Software Version
-      description: Which version of the software are you using?
+      label: Release
+      description: Which release of the software are you using?
       options:
         - Steam Release
         - Pirated or Cracked
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: |
+        Which version of the software are you using?
+        This can be found in the bottom-left corner of the console window.
+        Open the console window by pressing F5 on your keyboard.
     validations:
       required: true
   - type: dropdown
