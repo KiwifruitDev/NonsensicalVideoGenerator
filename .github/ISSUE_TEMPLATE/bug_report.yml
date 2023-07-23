@@ -1,0 +1,111 @@
+name: Bug Report
+description: Report a problem with the software
+title: "[Bug] "
+labels: ["Bug Report"]
+assignees:
+  - kiwifruitdev
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to help us reproduce and fix the bug as quickly as possible.
+  - type: dropdown
+    id: version
+    attributes:
+      label: Software Version
+      description: Which version of the software are you using?
+    validations:
+      required: true
+    options:
+      - text: Steam Release
+        value: steam
+      - text: Pirated or Cracked
+        value: pirated
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which platform are you using?
+    validations:
+      required: true
+    options:
+      - text: Windows
+        value: windows
+      - text: SteamOS (Steam Deck)
+        value: steamos
+      - text: Linux
+        value: linux
+      - text: macOS
+        value: mac
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: Please describe the severity of the bug.
+    validations:
+      required: true
+    options:
+      - text: Critical
+        value: critical
+      - text: Minor
+        value: minor
+      - text: Cosmetic
+        value: cosmetic
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the bug in as much detail as possible.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        These parts are optional, but they can help us reproduce the bug more easily.
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction Steps
+      description: Please describe the steps to reproduce the bug.
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: Please describe what you expected to happen.
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: Please describe what actually happened.
+  - type: markdown
+    attributes:
+      value: |
+        Feel free to upload any files that may help us reproduce the bug.
+  - type: input
+    id: log
+    attributes:
+      label: Console Log
+      description: |
+        Please upload the contents of console.txt to a pastebin service and paste the link here.
+        This file is located in the same folder as the game executable.
+  - type: input
+    id: options
+    attributes:
+      label: Options Save File
+      description: |
+        Please upload the contents of Options.json to a pastebin service and paste the link here.
+        This file is located in the same folder as the game executable.
+  - type: input
+    id: userconsents
+    attributes:
+      label: User Consents
+      description: |
+        Please upload the contents of UserConsents.json to a pastebin service and paste the link here.
+        This file is located in the same folder as the game executable.
+        It is only created when you subscribe to a Workshop effect that requires additional permissions.
+  - type: input
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: |
+        Please upload any screenshots as an album to Imgur or a similar service and paste the link here.
