@@ -1,0 +1,67 @@
+name: Feature Request
+description: Suggest a new feature for the software
+labels: ["Feature Request"]
+assignees:
+  - kiwifruitdev
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to illustrate your idea as clearly as possible.
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: Please describe the severity of this change.
+      options:
+        - Critical
+        - Minor
+        - Cosmetic
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the feature in as much detail as possible.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **The next section is optional, but its information can help us implement the feature more easily.**
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation
+      description: Please describe how you would implement this feature.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Please describe any alternative implementations you have considered.
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Benefits
+      description: Please describe the benefits of this feature.
+  - type: markdown
+    attributes:
+      value: |
+        **The next section is optional, but feel free to upload any relevant files.**
+  - type: input
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please upload any screenshots as an album to Imgur or a similar service and paste the link here.
+  - type: markdown
+    attributes:
+      value: |
+        **The next section is optional, but feel free to fill it out if you have any additional information.**
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: |
+        If you would like to be contacted about this feature request privately, please enter your contact information here.
+        Otherwise, leave this blank.
