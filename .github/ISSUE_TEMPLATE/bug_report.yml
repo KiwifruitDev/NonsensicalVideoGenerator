@@ -108,18 +108,18 @@ body:
       label: Proton Version
       description: If using non-Windows, which Proton versions have you tried?
       options:
-        - Ge-Proton7-30
-        - Proton Experimental
-        - Proton 8.0-3
-        - Proton 7.0-6
-        - Proton 6.3-8
-        - Proton 5.13-6
-        - Proton 5.0-10
-        - Proton 4.11-13
-        - Proton 4.2-9
-        - Proton 3.16-9
-        - Proton 3.7-8
-        - Proton Hotfix
+        - label:  Ge-Proton7-30
+        - label: Proton Experimental
+        - label: Proton 8.0-3
+        - label: Proton 7.0-6
+        - label: Proton 6.3-8
+        - label: Proton 5.13-6
+        - label: Proton 5.0-10
+        - label: Proton 4.11-13
+        - label: Proton 4.2-9
+        - label: Proton 3.16-9
+        - label: Proton 3.7-8
+        - label: Proton Hotfix
   - type: input
     id: contact
     attributes:
