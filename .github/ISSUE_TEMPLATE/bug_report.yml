@@ -17,10 +17,8 @@ body:
     validations:
       required: true
     options:
-      - text: Steam Release
-        value: steam
-      - text: Pirated or Cracked
-        value: pirated
+      - Steam Release
+      - Pirated or Cracked
   - type: dropdown
     id: platform
     attributes:
@@ -29,14 +27,10 @@ body:
     validations:
       required: true
     options:
-      - text: Windows
-        value: windows
-      - text: SteamOS (Steam Deck)
-        value: steamos
-      - text: Linux
-        value: linux
-      - text: macOS
-        value: mac
+      - Windows
+      - SteamOS (Steam Deck)
+      - Linux
+      - macOS
   - type: dropdown
     id: severity
     attributes:
@@ -45,12 +39,9 @@ body:
     validations:
       required: true
     options:
-      - text: Critical
-        value: critical
-      - text: Minor
-        value: minor
-      - text: Cosmetic
-        value: cosmetic
+      - Critical
+      - Minor
+      - Cosmetic
   - type: textarea
     id: description
     attributes:
@@ -107,5 +98,4 @@ body:
     id: screenshots
     attributes:
       label: Screenshots
-      description: |
-        Please upload any screenshots as an album to Imgur or a similar service and paste the link here.
+      description: Please upload any screenshots as an album to Imgur or a similar service and paste the link here.

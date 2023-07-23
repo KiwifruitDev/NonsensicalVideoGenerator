@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://discord.gg/8ppmspR6Wh
+    about: Join the Discord server for Nonsensical Video Generator.
