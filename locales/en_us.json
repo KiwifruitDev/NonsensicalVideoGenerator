@@ -146,7 +146,7 @@
         "Generate:StatusConcateClips": "Concatenating clips...",
         "Generate:StatusConcatenatingSingle": "Concatenating...",
         "Generate:StatusConcateIterations": "Concatenating iterations...",
-        "Generate:StatusConcatenating": "Concatenating... (%1/%2)",
+        "Generate:StatusConcatenating": "Concatenating... (%1)",
         "Generate:StatusLibrarySave": "Saving to library...",
         "Generate:StatusCompleted": "Completed!",
         "Generate:StatusLibraryParse": "Parsing library...",
