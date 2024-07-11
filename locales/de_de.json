@@ -399,6 +399,13 @@
         "Interactable:ButtonContinue3Title": "Workshop-Seite ansehen",
         "Interactable:ButtonContinue2Title": "Fortfahren",
         "Interactable:BlogURLTitle": "Mehr erfahren",
-        "Interactable:BlogURLTooltip": "Ankündigungsevent auf Steam ansehen."
+        "Interactable:BlogURLTooltip": "Ankündigungsevent auf Steam ansehen.",
+		"Addons:FilterAll": "Alle",
+        "Addons:FilterNone": "Keine",
+        "Addons:FilterEffects": "Effekte",
+        "Addons:FilterPostRenderEffects": "Post-Render Effekte",
+        "Addons:FilterThemes": "Designs",
+        "Addons:FilterMixed": "Gemischt",
+        "Game:CreditsTranslator": "Übersetzer:"
     }
 }
