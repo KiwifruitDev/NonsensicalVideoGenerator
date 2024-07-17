@@ -1,8 +1,8 @@
 {
     "Metadata": {
-        "LocalizedName": "Deutsch (Deutschland)",
-        "FontLarge": "LanaPixel",
-        "FontSmall": "LanaPixel"
+        "LocalizedName": "Deutsch",
+        "FontLarge": "NotoSans",
+        "FontSmall": "NotoSans"
     },
     "Version0": {
         "Accessibility:Help1": "Drücken Sie F1, um Tastaturnavigation umzuschalten. Drücken Sie F2, um Text-zu-Sprache umzuschalten.",
@@ -34,7 +34,7 @@
         "Accessibility:TextToSpeechDisabled": "Text zu Sprache deaktiviert",
         "Console:Title": "Konsole%1",
         "Console:TitleExtra": " - Mit F5 umschalten",
-	"Console:Footer": "- v%1 - Ganze Ausgabe in console.txt ansehen - Zeile %2/%3 -",
+	    "Console:Footer": "- v%1 - Ganze Ausgabe in console.txt ansehen - Zeile %2/%3 -",
         "Intro:TipHeader": "Tagestipp:",
         "Intro:StatsHeader": "Statistiken:",
         "Intro:StatsVideosRendered": "%1 Videos gerendert",
@@ -44,7 +44,7 @@
         "Intro:StatsMediaImportsNonPlural": "%1 Medienimport",
         "Intro:StatsClipsTrimmedNonPlural": "%1 Clip geschnitten",
         "Intro:Continue": "Maustaste drücken, um fortzufahren.",
-	"Intro:Tip0_0": "Sie können Medien durch Drag-and-Drop",
+	    "Intro:Tip0_0": "Sie können Medien durch Drag-and-Drop",
         "Intro:Tip0_1": "in die Bibliothek importieren.",
         "Intro:Tip1_0": "Sie können eine Reihe von URLs zur selben Zeit herunterladen,",
         "Intro:Tip1_1": "indem Sie eine Reihe von URLs aus Ihrer Zwischenablage einfügen.",
@@ -388,7 +388,7 @@
         "Interactable:SubmitTooltip": "Zum Steam Workshop einreichen.",
         "Interactable:BackTitle": "Zurück",
         "Interactable:BackTooltip": "Gehen Sie zur Addonliste zurück.",
-        "Interactable:MuteTitle": "Stummschalten",
+        "Interactable:MuteTitle": "Stummschalten Hintergrundmusik",
         "Interactable:MuteTooltip": "Schaltet die In-App Hintergrundmusik stumm.",
         "Interactable:Button1Title": "Nächste Seite",
         "Interactable:Button2Title": "Nächste Seite",
@@ -406,6 +406,7 @@
         "Addons:FilterPostRenderEffects": "Post-Render Effekte",
         "Addons:FilterThemes": "Designs",
         "Addons:FilterMixed": "Gemischt",
-        "Game:CreditsTranslator": "Übersetzer:"
+        "Game:CreditsTranslator": "Übersetzer:",
+        "Interactable:ViewLocalizationOptionsTitle": "Sprache Auswählen (%1)"
     }
 }

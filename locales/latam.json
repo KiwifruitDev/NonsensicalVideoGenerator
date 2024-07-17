@@ -1,8 +1,8 @@
 {
     "Metadata": {
-        "LocalizedName": "Español (México)",
-        "FontLarge": "LanaPixel",
-        "FontSmall": "LanaPixel"
+        "LocalizedName": "Español-Latinoamérica",
+        "FontLarge": "NotoSans",
+        "FontSmall": "NotoSans"
     },
     "Version0": {
         "Accessibility:Help1": "Presione F1 para entrada de teclado o F2 para texto a voz.",
@@ -147,6 +147,7 @@
         "Options:Tooltip": "Cambie la configuración de la aplicación.",
         "Blog:Title": "Noticias",
         "Blog:Tooltip": "¡Mira qué hay de nuevo!",
-        "Debug:Title": "Depurar"
+        "Debug:Title": "Depurar",
+        "Interactable:ViewLocalizationOptionsTitle": "Seleccionar Idioma (%1)"
     }
 }

@@ -25,7 +25,7 @@ Localization tokens are stored in the `locales/` directory.
 
 If you would like to contribute a translation, please submit a pull request with the new language file.
 
-Use the `en_us.json` file as a reference for the token names and values.
+Use the `english.json` file as a reference for the token names and values.
 
 Please read the [wiki](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/wiki/) for more information on localization.
 

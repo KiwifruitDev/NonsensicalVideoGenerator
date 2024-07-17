@@ -1,6 +1,6 @@
 {
     "Metadata": {
-        "LocalizedName": "English (United States)",
+        "LocalizedName": "English",
         "FontLarge": "Munro",
         "FontSmall": "MunroSmall"
     },
@@ -273,6 +273,7 @@
         "Game:CreditsSuperstar": "Superstars:",
         "Game:CreditsSoftwareLicense": "OSS Licenses:",
         "Game:CreditsFontLicense": "Font Licenses:",
+        "Game:CreditsAttribution": "Attributions:",
         "Game:CreditsEnd": "End of credits",
         "Game:Score": "Score",
         "Game:HighScore": "High Score",
@@ -337,7 +338,7 @@
         "Interactable:StartRenderingTooltip": "Start generating a new video.",
         "Interactable:MaxStreamDurationTitle": "Random Clip Length",
         "Interactable:MaxStreamDurationTooltip": "End of random length range.",
-        "Interactable:MinStreamDurationTitle": "  ",
+        "Interactable:MinStreamDurationTitle": " ",
         "Interactable:MinStreamDurationTooltip": "Start of random length range.",
         "Interactable:ClipCountTitle": "Clip Segment Count",
         "Interactable:ClipCountTooltip": "How many clips to generate.",
@@ -411,7 +412,7 @@
         "Interactable:SubmitTooltip": "Submit to Steam Workshop.",
         "Interactable:BackTitle": "Back",
         "Interactable:BackTooltip": "Go back to addon list.",
-        "Interactable:MuteTitle": "Mute",
+        "Interactable:MuteTitle": "Mute Background Music",
         "Interactable:MuteTooltip": "Mutes in-app background music.",
         "Interactable:Button1Title": "Next Page",
         "Interactable:Button1Tooltip": "",
@@ -430,6 +431,10 @@
         "Interactable:ButtonContinue2Title": "Continue",
         "Interactable:ButtonContinue2Tooltip": "",
         "Interactable:BlogURLTitle": "Read More",
-        "Interactable:BlogURLTooltip": "View announcement event on Steam."
+        "Interactable:BlogURLTooltip": "View announcement event on Steam.",
+        "Interactable:ViewLocalizationOptionsTitle": "Select Language (%1)",
+        "Interactable:ViewLocalizationOptionsTooltip": "",
+        "Interactable:UseColorblindThemeTitle": "Use Colorblind Theme",
+        "Interactable:UseColorblindThemeTooltip": ""
     }
 }
