@@ -292,6 +292,8 @@
         "Interactable:ActionGitHubTooltip": "View the issue tracker on GitHub!",
         "Interactable:ActionLocalesTooltip": "Select a different language.",
         "Interactable:ActionOptionsTooltip": "Change application settings.",
+        "Interactable:ActionEnableAllTooltip": "Enable all content in this category.",
+        "Interactable:ActionDisableAllTooltip": "Disable all content in this category.",
         "Interactable:EnableTimeOutTitle": "",
         "Interactable:EnableTimeOutTooltip": "Cancel operations if they take too long.",
         "Interactable:TimeOutTitle": "Time Out",
