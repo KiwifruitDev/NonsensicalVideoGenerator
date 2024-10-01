@@ -148,6 +148,7 @@
         "Blog:Title": "Noticias",
         "Blog:Tooltip": "¡Mira qué hay de nuevo!",
         "Debug:Title": "Depurar",
-        "Interactable:ViewLocalizationOptionsTitle": "Seleccionar Idioma (%1)"
+        "Interactable:ViewLocalizationOptionsTitle": "Seleccionar Idioma (%1)",
+        "Interactable:SelectLanguageOptionsPageTitle": "Seleccionar Idioma"
     }
 }

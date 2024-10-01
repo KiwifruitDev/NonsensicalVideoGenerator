@@ -28,7 +28,6 @@
         "Accessibility:ConsoleShown": "Konsole wird angezeigt.",
         "Accessibility:ConsoleHidden": "Konsole wird versteckt.",
         "Accessibility:ConsoleNotFound": "Konsole nicht gefunden.",
-        "Accessibility:Cursor": "[ ]", 
         "Accessibility:Selected": "%1 ausgewählt",
         "Accessibility:TextToSpeechEnabled": "Text zu Sprache aktiviert",
         "Accessibility:TextToSpeechDisabled": "Text zu Sprache deaktiviert",
@@ -101,12 +100,9 @@
         "Tutorial:Page1_2": "Auf der nächsten Seite werden wir Progammvoraussetzungen überprüfen.",
         "Tutorial:Page1_3": "Diese Programme werden benötigt, sind aber nicht installiert:",
         "Tutorial:Page1_4": "Wir werden diese für Sie herunterladen und installieren.",
-        "Tutorial:Page1_5": "",
-        "Tutorial:Page1_6": "Diese Programme sind optional:",
         "Tutorial:Page1_7": "Klicken Sie \"Nächste Seite\", um fortzufahren.",
         "Tutorial:Page2_0": "Der Status von jedem Programm wird hier unten angezeigt.",
         "Tutorial:Page2_1": "Benötigte Software:",
-        "Tutorial:Page2_2": "Optionale Software:",
         "Tutorial:Page2_3": "Klicken Sie \"Nächste Seite\", um den Status von jedem Programm erneut zu überprüfen.",
         "Tutorial:Page2_4": "Brauchen Sie Hilfe? Erstellen Sie ein Problem auf GitHub oder treten Sie dem Discord bei.",
         "Tutorial:Page2_5": "Die \"Nächste Seite\"-Taste wird deaktiviert, falls es Probleme gibt.",
@@ -407,6 +403,7 @@
         "Addons:FilterThemes": "Designs",
         "Addons:FilterMixed": "Gemischt",
         "Game:CreditsTranslator": "Übersetzer:",
-        "Interactable:ViewLocalizationOptionsTitle": "Sprache Auswählen (%1)"
+        "Interactable:ViewLocalizationOptionsTitle": "Sprache Auswählen (%1)",
+        "Interactable:SelectLanguageOptionsPageTitle": "Sprache Auswählen"
     }
 }
