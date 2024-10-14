@@ -437,6 +437,7 @@
         "Content:StatusExiting": "Man sieht sich!",
         "Addons:WorkshopTags": "Workshop-Tags: %1",
         "Interactable:UseExternalVideoPlayerTitle": "Externen Medienspieler verwenden",
-        "Interactable:UseExternalVideoPlayerTooltip": "Medien mit ihren Standardprogrammen öffnen statt Bilder zu extrahieren."
+        "Interactable:UseExternalVideoPlayerTooltip": "Medien mit ihren Standardprogrammen öffnen statt Bilder zu extrahieren.",
+        "Game:CreditsAttribution": "Attribute:"
     }
 }
