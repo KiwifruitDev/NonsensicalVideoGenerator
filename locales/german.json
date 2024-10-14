@@ -5,6 +5,16 @@
         "FontSmall": "NotoSans"
     },
     "Version0": {
+        "DiscordRPC:Tab": "%1 Tab",
+        "Holidays:StatusNewYears": "Frohes neues Jahr!",
+        "Holidays:StatusAnniversary": "Es ist NVGs %1 Jubiläum!",
+        "Holidays:StatusBirthday": "Es ist KiwifruitDevs %1 Geburtstag!",
+        "Holidays:StatusHalloween": "Schaurige Halloween!",
+        "Holidays:StatusChristmas": "Frohe Feiertage!",
+        "Holidays:OrdinalSuffixSt": "%1.",
+        "Holidays:OrdinalSuffixNd": "%1.",
+        "Holidays:OrdinalSuffixRd": "%1.",
+        "Holidays:OrdinalSuffixTh": "%1.",
         "Accessibility:Help1": "Drücken Sie F1, um Tastaturnavigation umzuschalten. Drücken Sie F2, um Text-zu-Sprache umzuschalten.",
         "Accessibility:Help2": "Drücken Sie Enter, um eine Option auszuwählen. Verwenden Sie die Pfeiltasten oder Tab, um zu navigieren.",
         "Accessibility:InteractableActionButton": "Aktionstaste: %1",
@@ -425,6 +435,8 @@
         "Addons:ButtonCreateOrReload": "Erweiterungen erstellen oder neuladen.",
         "Addons:SwitchToggleAddon": "Klicke, um Erweiterung umzuschalten.",
         "Content:StatusExiting": "Man sieht sich!",
-        "Addons:WorkshopTags": "Workshop-Tags: %1"
+        "Addons:WorkshopTags": "Workshop-Tags: %1",
+        "Interactable:UseExternalVideoPlayerTitle": "Externen Medienspieler verwenden",
+        "Interactable:UseExternalVideoPlayerTooltip": "Medien mit ihren Standardprogrammen öffnen statt Bilder zu extrahieren."
     }
 }
