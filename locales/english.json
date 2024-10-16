@@ -84,7 +84,7 @@
         "Intro:Tip12_1": "logo will re-seed the random number generator.",
         "Intro:Tip13_1": "Append a hex color code (\"__color_RRGGBB\") to",
         "Intro:Tip13_2": "overlay names for custom chroma key colors.",
-        "Intro:Tip14_1": "Append a simularity value (\"__simularity_000\") to",
+        "Intro:Tip14_1": "Append a similarity value (\"__similarity_000\") to",
         "Intro:Tip14_2": "overlay names to change how similar colors are.",
         "Intro:Tip15_1": "Append a blend value (\"__blend_000\") to overlay",
         "Intro:Tip15_2": "names to change color opacities.",
