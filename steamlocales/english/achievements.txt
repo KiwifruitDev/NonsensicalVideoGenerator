@@ -1,0 +1,23 @@
+Render Wizard
+Generate your first video.
+
+Experimental Era
+Render a video with a user-created clip effect from the Steam Workshop.		
+
+Import Master
+Add a media file into a library.
+
+Green Screen Guru
+Use a chroma key overlay in a generated video.
+
+Manual Override
+Render a video with your own imported outro.
+
+Patience, My Friend
+Achieve a high score of 50 in the rendering game.
+
+Oops! All Effects!
+Use a 100% effect chance in a generated video.
+
+Well That Happened
+Cause a Lua error while scripting your own effect.

@@ -1,0 +1,24 @@
+Let your computer become a comedian with Nonsensical Video Generator, the ultimate automated video production software that empowers everyone to effortlessly create hilarious videos.
+[h2]Features[/h2]
+[list]
+[*]Effect Scripts
+Download user-created clip effects from the Steam Workshop.
+[*]In-App Content Library and Effect Management
+Add & remove media directly from within the software.
+[*]Chance Modifiers
+Determine how often effects and other parameters occur.
+[*]Built-In URL Downloader
+Download media directly to a library from external URLs.
+[*]Intro and Outro Support
+Add a cherry on top of your productions with an intro or outro.
+[*]Green Screen Overlays
+Chroma key your favorite scenes into generated clips.
+[*]Rendering Game
+Play a game while generating clips.
+[*]Accessible Navigation
+Use text to speech and keyboard navigation.
+[/list]
+[h2]Production[/h2]
+This software works by performing actions on input clips at random with little user input. Through the power of effect chances and asset libraries, hypothetical dice are rolled for a dose of unpredictability. With each clip, the software determines whether or not to use an effect, which effect to choose, and even selecting a green screen overlay. Chance will guide your comedic journey with the magic of Nonsensical Video Generator!
+[h2]Workshop[/h2]
+Create your own custom effects and upload them for anyone to use! Effects are scripted in Lua and documentation is provided to get started. You can use built-in templates and upload to the Steam Workshop directly in-app.

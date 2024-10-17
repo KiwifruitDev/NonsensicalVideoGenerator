@@ -1,0 +1,19 @@
+Effect Type
+Video
+Audio
+Image
+
+Library Usage
+Material
+Transition
+Intro
+Outro
+Overlay
+Sound FX
+Music
+Custom
+
+Addon Type
+Effect
+Post-Render Effect
+Theme

@@ -1,0 +1,11 @@
+Windows 10
+AMD Ryzen 5 1600
+NVIDIA Geforce GTX 1050 TI
+DirectX 10 compatible sound card
+Hardware video transcoding support is recommended for optimal performance.
+
+Windows 11
+Intel Core i5-8400
+NVIDIA GeForce GTX 1660 Super
+DirectX 10 compatible sound card
+Hardware video transcoding support is recommended for optimal performance.
