@@ -141,6 +141,7 @@
         "Menu:Title": "Main Menu",
         "Content:Title": "Content",
         "Content:StatusExiting": "See ya!",
+        "Content:StatusWelcome": "Welcome!",
         "Socials:Title": "Socials",
         "Video:Title": "Media Player",
         "Video:StatusPlay": "Playing media...",
