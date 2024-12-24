@@ -459,6 +459,14 @@
         "Interactable:DisableHolidaysTitle": "Disable Holidays",
         "Interactable:DisableHolidaysTooltip": "Disables special themes during holidays.",
         "Interactable:UseExternalVideoPlayerTitle": "Use External Media Player",
-        "Interactable:UseExternalVideoPlayerTooltip": "Open media using their default programs instead of extracting frames."
+        "Interactable:UseExternalVideoPlayerTooltip": "Open media using their default programs instead of extracting frames.",
+        "Interactable:FullscreenTitle": "Fullscreen Window",
+        "Interactable:FullscreenTooltip": "Toggle fullscreen mode.\nPress F11 to toggle fullscreen from anywhere.",
+        "Interactable:AlwaysOnTopTitle": "Window Always On Top",
+        "Interactable:AlwaysOnTopTooltip": "Keep the window on top of other windows.\nMay be required to hide the taskbar in fullscreen mode.",
+        "Interactable:MatchAspectRatioTitle": "Match Aspect Ratio",
+        "Interactable:MatchAspectRatioTooltip": "Extend the window to fit your screen's aspect ratio.\nDoes not apply to fullscreen mode.",
+        "Interactable:UseNativeCursorTitle": "Use Native Cursor",
+        "Interactable:UseNativeCursorTooltip": "Use the system cursor instead of the custom cursor."
     }
 }
