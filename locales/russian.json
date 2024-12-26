@@ -458,5 +458,13 @@
         "Interactable:DisableHolidaysTooltip": "Отключает дополнительные темы во время праздников.",
         "Interactable:UseExternalVideoPlayerTitle": "Исполь. внешний плеер ",
         "Interactable:UseExternalVideoPlayerTooltip": "Открывайте медию, используя свой плеер по умолчанию,\nвместо извлечения кадров."
+        "Interactable:FullscreenTitle": "Полноэкранное окно",
+        "Interactable:FullscreenTooltip": "Переключить полноэкранный режим\nНажмите F11 чтобы переключить в любой момент.",
+        "Interactable:AlwaysOnTopTitle": "Окно всегда поверх всего",
+        "Interactable:AlwaysOnTopTooltip": "Держать программное окно поверх других окон.\nВозможно потребовается скрыть панель задач.",
+        "Interactable:MatchAspectRatioTitle": "Соответсвить соотношение сторон окна",
+        "Interactable:MatchAspectRatioTooltip": "Расширяет окно в соответствии с соотношением сторон вашего экрана.\nНе принимается в полноэкранном.",
+        "Interactable:UseNativeCursorTitle": "Использовать собственный курсор",
+        "Interactable:UseNativeCursorTooltip": "Использовать системный курсор в место пользоватеьлского."
     }
 }
