@@ -458,7 +458,7 @@
         "Interactable:DisableHolidaysTitle": "Отключить праздники",
         "Interactable:DisableHolidaysTooltip": "Отключает дополнительные темы во время праздников.",
         "Interactable:UseExternalVideoPlayerTitle": "Исполь. внешний плеер ",
-        "Interactable:UseExternalVideoPlayerTooltip": "Открывайте медию, используя свой плеер по умолчанию,\nвместо извлечения кадров."
+        "Interactable:UseExternalVideoPlayerTooltip": "Открывайте медию, используя свой плеер по умолчанию,\nвместо извлечения кадров.",
         "Interactable:FullscreenTitle": "Полноэкранное окно",
         "Interactable:FullscreenTooltip": "Переключить полноэкранный режим\nНажмите F11 чтобы переключить в любой момент.",
         "Interactable:AlwaysOnTopTitle": "Окно всегда поверх всего",
