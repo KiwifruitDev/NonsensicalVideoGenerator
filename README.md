@@ -6,6 +6,8 @@
 
 This repository serves as the issue tracker and wiki for [Nonsensical Video Generator](https://store.steampowered.com/app/2516360/Nonsensical_Video_Generator/).
 
+**[NEW!]** View the source code [here](https://github.com/NVGPartners/NonsensicalVideoGeneratorSrc).
+
 ## Pages
 - [Issues](https://github.com/KiwifruitDev/NonsensicalVideoGenerator/issues/)
   - Report bugs

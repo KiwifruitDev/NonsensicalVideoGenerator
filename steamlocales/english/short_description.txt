@@ -1,1 +1,1 @@
-Nonsensical Video Generator is an automated video production software designed to let anyone create humorous videos at ease. Unleash your creativity by tinkering with parameters and importing media!
+Nonsensical Video Generator is an automated video production tool that uses imported media, user-made effects, and a variety of parameters to randomly pick and transform clips into a single render that mimics the crude video editing styles made popular by the "YTP" genre.

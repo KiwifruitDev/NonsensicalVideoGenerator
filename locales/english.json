@@ -290,8 +290,8 @@
         "Addons:FilterPostRenderEffects": "Post-Render Effects",
         "Addons:FilterThemes": "Themes",
         "Addons:FilterMixed": "Mixed",
-        "Game:Title": "Game",
-        "Game:Tooltip": "Play a game while generating.",
+        "Game:Title": "Credits",
+        "Game:Tooltip": "Play a game to view the credits.",
         "Game:CreditsStart": "Score points to view credits!",
         "Game:CreditsLeadDeveloper": "Lead Developer:",
         "Game:CreditsSoundDesigner": "Sound Designers:",
@@ -467,6 +467,8 @@
         "Interactable:MatchAspectRatioTitle": "Match Aspect Ratio",
         "Interactable:MatchAspectRatioTooltip": "Extend the window to fit your screen's aspect ratio.\nDoes not apply to fullscreen mode.",
         "Interactable:UseNativeCursorTitle": "Use Native Cursor",
-        "Interactable:UseNativeCursorTooltip": "Use the system cursor instead of the custom cursor."
+        "Interactable:UseNativeCursorTooltip": "Use the system cursor instead of the custom cursor.",
+        "Overlay:ExitTooltip": "Exit the program.",
+        "Overlay:FullscreenTooltip": "Toggle media fullscreen mode."
     }
 }

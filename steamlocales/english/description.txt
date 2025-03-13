@@ -1,24 +1,8 @@
-Let your computer become a comedian with Nonsensical Video Generator, the ultimate automated video production software that empowers everyone to effortlessly create hilarious videos.
-[h2]Features[/h2]
-[list]
-[*]Effect Scripts
-Download user-created clip effects from the Steam Workshop.
-[*]In-App Content Library and Effect Management
-Add & remove media directly from within the software.
-[*]Chance Modifiers
-Determine how often effects and other parameters occur.
-[*]Built-In URL Downloader
-Download media directly to a library from external URLs.
-[*]Intro and Outro Support
-Add a cherry on top of your productions with an intro or outro.
-[*]Green Screen Overlays
-Chroma key your favorite scenes into generated clips.
-[*]Rendering Game
-Play a game while generating clips.
-[*]Accessible Navigation
-Use text to speech and keyboard navigation.
-[/list]
-[h2]Production[/h2]
-This software works by performing actions on input clips at random with little user input. Through the power of effect chances and asset libraries, hypothetical dice are rolled for a dose of unpredictability. With each clip, the software determines whether or not to use an effect, which effect to choose, and even selecting a green screen overlay. Chance will guide your comedic journey with the magic of Nonsensical Video Generator!
-[h2]Workshop[/h2]
-Create your own custom effects and upload them for anyone to use! Effects are scripted in Lua and documentation is provided to get started. You can use built-in templates and upload to the Steam Workshop directly in-app.
+[p][b]Nonsensical Video Generator[/b] ([b]NVG[/b]) is an automated video production tool designed to mimic the crude video editing styles made popular by the "YTP" genre.[/p][h2]How does it work?[/h2][p]Import or download videos and audio clips, subscribe to user-made [b]effects[/b] on the [b]Workshop[/b], and adjust a range of customizable parameters. [b]NVG[/b] will then transform your content by picking media at [b]random[/b] and choosing to perform certain actions, all without any form of AI.
+
+You can easily share your [b]rendered results[/b] with your friends or with the community![/p][h2]How could I join the community?[/h2][p]The official [b]Nonsensical Video Generator Discord[/b] community is a place where you can share your creations and download user-submitted media for each of the library categories that [b]NVG[/b] supports. If you need help, the [b]Discord[/b] is the best place to ask for support as well.
+
+On the [b]Workshop[/b] page, please feel free to browse for new and interesting [b]effects[/b] or [b]themes[/b] that other users have made. You can also create your own custom [b]addons[/b] to upload for anyone to use! [b]Addons[/b] are scripted in [b]Lua[/b] and documentation is available to get started. You can use built-in templates and upload to the [b]Steam Workshop[/b] directly in-app.[/p][h2]Which kind of media is supported?[/h2][p][b]NVG[/b] supports importing videos and audio clips, categorized by "libraries."
+You can import your media into these libraries by default:[/p][list][*][p]Video[/p][list][*][p]Materials: Required, as these videos will be spliced into [b]clips[/b].[/p][/*][*][p]Transitions: These videos are played at their full length in place of a [b]clip[/b].[/p][/*][*][p]Intros & Outros: Show off by adding flair to the start or end of your [b]renders[/b].[/p][/*][*][p]Overlays: Use a green screen background to chroma-key on top of [b]clips[/b].[/p][/*][/list][/*][*][p]Audio[/p][list][*][p]Sound FX: This library is linked to the "Random Sound" [b]effect[/b], which plays one of these sound effects at the same time as a [b]clip[/b].[/p][/*][*][p]Music: This library is linked to the "Dance" [b]effect[/b], which plays this music and makes the [b]clip[/b] play in reverse and forward again, and so on.[/p][/*][*][p]Rave: This library is linked to the "Rave" [b]effect[/b], which plays this music and randomizes the frames of the [b]clip[/b] at high-speed.[/p][/*][*][p]Vocoder: This library is linked to the "Vocoder" [b]effect[/b], which makes the [b]clip[/b]'s original audio turn into one of these vocoder "carriers."[/p][/*][/list][/*][/list][p]Additionally, community-contributed [b]effects[/b] can also create their own video and audio libraries for you to import media into.
+Using ".mp4" and ".mp3" media files are recommended, however other formats may be used with possible limitations.
+Some [b]effects[/b] on the [b]Workshop[/b] may also download media for you if required.[/p]

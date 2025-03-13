@@ -1,0 +1,15 @@
+"lang"
+{
+	"english"
+	{
+		"tokens"
+		{
+			"#Status" "%render%: {#Tab_%tab%} Tab"
+			"#Tab_Generate" "Generate"
+			"#Tab_Library" "Library"
+			"#Tab_Addons" "Addons"
+			"#Tab_Game" "Credits"
+			"#Tab_Blog" "Blog"
+		}
+	}
+}
