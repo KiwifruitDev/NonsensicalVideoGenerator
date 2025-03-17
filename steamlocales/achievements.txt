@@ -1,0 +1,23 @@
+Assistant de rendu
+Générez votre première vidéo.
+
+Ère expérimentale
+Rendez une vidéo avec un effet téléchargé depuis le Steam Workshop.
+
+Importer le fichier principal
+Ajouter un fichier multimédia à une bibliothèque.
+
+Expert en écran vert
+Utilisez une incrustation chromatique dans une vidéo générée.
+
+Remplacement manuel
+Générez une vidéo avec votre propre outro importée.
+
+Patience, mon ami
+Obtenez un score de 50 dans le jeu des crédits.
+
+Oups ! Tous les effets !
+Utilisez une probabilité d'effet de 100 % dans une vidéo générée.
+
+Eh bien, c'est arrivé.
+Provoque une erreur Lua lors de la création du script de votre propre module complémentaire.

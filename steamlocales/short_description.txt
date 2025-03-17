@@ -1,0 +1,1 @@
+Nonsensical Video Generator est un outil de production vidéo automatisé qui utilise des médias importés, des effets créés par l'utilisateur et une variété de paramètres pour sélectionner et transformer au hasard des clips en un seul rendu qui imite les styles de montage vidéo bruts rendus populaires par le genre "YTP".
