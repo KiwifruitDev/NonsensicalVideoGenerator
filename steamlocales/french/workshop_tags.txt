@@ -9,7 +9,7 @@ Transition
 Intro
 Outro
 Superpostition
-Effets sonores
+Effet sonore
 Musique
 Personalisé
 
