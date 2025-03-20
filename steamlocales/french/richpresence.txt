@@ -1,0 +1,15 @@
+"lang"
+{
+	"french"
+	{
+		"tokens"
+		{
+			"#Status" "%render%: {#Tab_%tab%} Onglet"
+			"#Tab_Generate" "Génère"
+			"#Tab_Library" "Librairie"
+			"#Tab_Addons" "Addons"
+			"#Tab_Game" "Crédits"
+			"#Tab_Blog" "Blog"
+		}
+	}
+}
