@@ -1,0 +1,19 @@
+Type d'effet
+Vidéo
+Audio
+Image
+
+Utilisation de la librairie
+Matériel
+Transition
+Intro
+Outro
+Superpostition
+Effets sonores
+Musique
+Personalisé
+
+Typde d'addon
+Effet
+Effet post-rendu
+Thème
