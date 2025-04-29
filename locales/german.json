@@ -1,8 +1,8 @@
 {
     "Metadata": {
         "LocalizedName": "Deutsch",
-        "FontLarge": "NotoSans",
-        "FontSmall": "NotoSans"
+        "FontLarge": "Munro",
+        "FontSmall": "MunroSmall"
     },
     "Version0": {
         "DiscordRPC:Tab": "%1 Tab",
