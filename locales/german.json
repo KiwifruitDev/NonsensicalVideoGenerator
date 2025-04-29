@@ -149,7 +149,7 @@
         "Generate:StatusConcateClips": "Clips werden zusammengefügt…",
         "Generate:StatusConcatenatingSingle": "Zusammengefügen…",
         "Generate:StatusConcateIterations": "Wiederholungen werden zusammengefügt…",
-        "Generate:StatusConcatenating": "Zusammenfügen… (%1/%2)",
+        "Generate:StatusConcatenating": "Zusammenfügen… (%1)",
         "Generate:StatusLibrarySave": "Zur Bibliothek speichern…",
         "Generate:StatusCompleted": "Abgeschlossen!",
         "Generate:StatusLibraryParse": "Bibliothek wird verarbeitet…",
@@ -451,6 +451,7 @@
         "Interactable:UseNativeCursorTitle": "Nativen Cursor benutzen",
         "Interactable:UseNativeCursorTooltip": "Den System-Cursor statt den benutzerdefinierten Cursor benutzen.",
         "Overlay:ExitTooltip": "Das Programm verlassen.",
-        "Overlay:FullscreenTooltip": "Vollbildmodus für Medien umschalten."
+        "Overlay:FullscreenTooltip": "Vollbildmodus für Medien umschalten.",
+        "Generate:StatusApplyOverlay": "Chroma Key anwenden... (%1/%2)"
     }
 }
