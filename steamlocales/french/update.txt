@@ -4,7 +4,7 @@ Voici les modifications de cette mise à jour:
 
 %1
 
-Faites-le moi savoir si vous rencontrez des problèmes avec cette update.
+Faites-le moi savoir si vous rencontrez des problèmes avec cette mise à jour.
 Aussi, n'hésitez pas à aider à traduire NVG dans votre langue sur [url=https://github.com/KiwifruitDev/NonsensicalVideoGenerator/wiki/Localization]GitHub[/url]!
 Bonne génération !
 
