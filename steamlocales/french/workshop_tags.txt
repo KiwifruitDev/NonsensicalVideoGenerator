@@ -13,7 +13,7 @@ Effet sonore
 Musique
 Personnalisé
 
-Typde d'addon
+Type d'addon
 Effet
 Effet post-rendu
 Thème
