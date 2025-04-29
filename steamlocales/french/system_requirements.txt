@@ -1,6 +1,6 @@
 Windows 10
 AMD Ryzen 5 1600
-NVIDIA Geforce GTX 1050 TI
+NVIDIA GeForce GTX 1050 TI
 Carte son compatible DirectX 10
 Matériel vidéo prenant en charge le transcodage
 
