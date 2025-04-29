@@ -1,0 +1,11 @@
+Windows 10
+AMD Ryzen 5 1600
+NVIDIA GeForce GTX 1050 TI
+Carte son compatible DirectX 10
+Matériel vidéo prenant en charge le transcodage
+
+Windows 11
+Intel Core i5-8400
+NVIDIA GeForce GTX 1660 Super
+Carte son compatible DirectX 10
+Matériel vidéo prenant en charge le transcodage, Solid-State Drive (SSD)

@@ -1,0 +1,11 @@
+Milestone %1 Hotfix %2 (%3)
+
+Voici les modifications de cette mise à jour:
+
+%1
+
+Faites-le moi savoir si vous rencontrez des problèmes avec cette mise à jour.
+Aussi, n'hésitez pas à aider à traduire NVG dans votre langue sur [url=https://github.com/KiwifruitDev/NonsensicalVideoGenerator/wiki/Localization]GitHub[/url]!
+Bonne génération !
+
+[url=https://store.steampowered.com/app/2516360/Nonsensical_Video_Generator/][img]{STEAM_CLAN_IMAGE}/44378200/ff687f086ff77748ead1a7a7f33a8fbcfdb6a772.png[/img][/url] [url=https://steamcommunity.com/id/KiwifruitDev][img]{STEAM_CLAN_IMAGE}/44378200/a9f98b6b95b65dddf1d44f23bef423f6d6b2cb57.png[/img][/url]
