@@ -1,8 +1,8 @@
 {
     "Metadata": {
         "LocalizedName": "Русский",
-        "FontLarge": "NotoSans",
-        "FontSmall": "NotoSans"
+        "FontLarge": "LanaPixel",
+        "FontSmall": "LanaPixel"
     },
     "Version0": {
         "DiscordRPC:Tab": "%1 Вкладка",

@@ -1,23 +1,23 @@
-Assistant de rendu
-Générez votre première vidéo.
-
-Ère expérimentale
-Rendez une vidéo avec un effet téléchargé depuis le Steam Workshop.
-
-Importer le fichier principal
-Ajouter un fichier multimédia à une bibliothèque.
-
-Expert en écran vert
-Utilisez une incrustation chromatique dans une vidéo générée.
-
-Remplacement manuel
-Générez une vidéo avec votre propre outro importée.
-
-Patience, mon ami
-Obtenez un score de 50 dans le jeu des crédits.
-
-Oups ! Tous les effets !
-Utilisez une probabilité d'effet de 100 % dans une vidéo générée.
-
-Eh bien, c'est arrivé.
-Provoque une erreur Lua lors de la création du script de votre propre module complémentaire.
+"lang"
+{
+	"Language"	"french"
+	"Tokens"
+	{
+		"NEW_ACHIEVEMENT_1_0_NAME"	"Assistant de rendu"
+        "NEW_ACHIEVEMENT_1_0_DESC"	"Générez votre première vidéo."
+        "NEW_ACHIEVEMENT_1_1_NAME"	"Ère expérimentale"
+        "NEW_ACHIEVEMENT_1_1_DESC"	"Rendez une vidéo avec un effet téléchargé depuis le Steam Workshop."
+        "NEW_ACHIEVEMENT_1_2_NAME"	"Importer le fichier principal"
+        "NEW_ACHIEVEMENT_1_2_DESC"	"Ajouter un fichier multimédia à une bibliothèque."
+        "NEW_ACHIEVEMENT_1_3_NAME"	"Expert en écran vert"
+        "NEW_ACHIEVEMENT_1_3_DESC"	"Utilisez une incrustation chromatique dans une vidéo générée."
+        "NEW_ACHIEVEMENT_1_5_NAME"	"Remplacement manuel"
+        "NEW_ACHIEVEMENT_1_5_DESC"	"Générez une vidéo avec votre propre outro importée."
+        "NEW_ACHIEVEMENT_1_6_NAME"	"Patience, mon ami"
+        "NEW_ACHIEVEMENT_1_6_DESC"	"Obtenez un score de 50 dans le jeu des crédits."
+        "NEW_ACHIEVEMENT_1_7_NAME"	"Oups ! Tous les effets !"
+        "NEW_ACHIEVEMENT_1_7_DESC"	"Utilisez une probabilité d'effet de 100 % dans une vidéo générée."
+        "NEW_ACHIEVEMENT_1_8_NAME"	"Eh bien, c'est arrivé."
+        "NEW_ACHIEVEMENT_1_8_DESC"	"Provoque une erreur Lua lors de la création du script de votre propre module complémentaire."        
+	}
+}

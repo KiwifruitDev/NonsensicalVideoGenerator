@@ -1,23 +1,23 @@
-Render Wizard
-Generate your first video.
-
-Experimental Era
-Render a video with an effect downloaded from the Steam Workshop.
-
-Import Master
-Add a media file into a library.
-
-Green Screen Guru
-Use a chroma key overlay in a generated video.
-
-Manual Override
-Render a video with your own imported outro.
-
-Patience, My Friend
-Achieve a high score of 50 in the credits game.
-
-Oops! All Effects!
-Use a 100% effect chance in a generated video.
-
-Well That Happened
-Cause a Lua error while scripting your own addon.
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"NEW_ACHIEVEMENT_1_0_NAME"	"Render Wizard"
+		"NEW_ACHIEVEMENT_1_0_DESC"	"Generate your first video."
+		"NEW_ACHIEVEMENT_1_1_NAME"	"Experimental Era"
+		"NEW_ACHIEVEMENT_1_1_DESC"	"Render a video with an effect downloaded from the Steam Workshop."
+		"NEW_ACHIEVEMENT_1_2_NAME"	"Import Master"
+		"NEW_ACHIEVEMENT_1_2_DESC"	"Add a media file into a library."
+		"NEW_ACHIEVEMENT_1_3_NAME"	"Green Screen Guru"
+		"NEW_ACHIEVEMENT_1_3_DESC"	"Use a chroma key overlay in a generated video."
+		"NEW_ACHIEVEMENT_1_5_NAME"	"Manual Override"
+		"NEW_ACHIEVEMENT_1_5_DESC"	"Render a video with your own imported outro."
+		"NEW_ACHIEVEMENT_1_6_NAME"	"Patience, My Friend"
+		"NEW_ACHIEVEMENT_1_6_DESC"	"Achieve a high score of 50 in the credits game."
+		"NEW_ACHIEVEMENT_1_7_NAME"	"Oops! All Effects!"
+		"NEW_ACHIEVEMENT_1_7_DESC"	"Use a 100% effect chance in a generated video."
+		"NEW_ACHIEVEMENT_1_8_NAME"	"Well That Happened"
+		"NEW_ACHIEVEMENT_1_8_DESC"	"Cause a Lua error while scripting your own addon."
+	}
+}

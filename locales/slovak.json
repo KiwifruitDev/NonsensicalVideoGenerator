@@ -1,8 +1,8 @@
 {
     "Metadata": {
         "LocalizedName": "Slovenčina",
-        "FontLarge": "NotoSans",
-        "FontSmall": "NotoSans"
+        "FontLarge": "LanaPixel",
+        "FontSmall": "LanaPixel"
     },
     "Version0": {
         "DiscordRPC:Tab": "Karta %1",
