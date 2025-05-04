@@ -5,6 +5,7 @@
         "FontSmall": "LanaPixel"
     },
     "Version0": {
+        "DefaultOutro:CreatedWith": "Создано в",
         "DiscordRPC:Tab": "%1 Вкладка",
         "Holidays:StatusNewYears": "С новым годом!",
         "Holidays:StatusAnniversary": "С NVG's %1 годовщиной!",

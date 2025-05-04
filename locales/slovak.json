@@ -2,9 +2,11 @@
     "Metadata": {
         "LocalizedName": "Slovenčina",
         "FontLarge": "LanaPixel",
-        "FontSmall": "LanaPixel"
+        "FontSmall": "LanaPixel",
+        "PreferDefaultOutroTextBelow": false
     },
     "Version0": {
+        "DefaultOutro:CreatedWith": "Vytvorené s",
         "DiscordRPC:Tab": "Karta %1",
         "Holidays:StatusNewYears": "Šťastný nový rok!",
         "Holidays:StatusAnniversary": "Dnes oslavuje NVG %1 výročie!",

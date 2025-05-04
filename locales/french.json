@@ -5,6 +5,7 @@
         "FontSmall": "MunroSmall"
     },
     "Version0": {
+        "DefaultOutro:CreatedWith": "Créé avec",
         "DiscordRPC:Tab": "Onglet %1",
         "Holidays:StatusNewYears": "Bonne année !",
         "Holidays:StatusAnniversary": "C'est le %1 anniversaire de NVG !",
