@@ -391,7 +391,6 @@
         "Interactable:ActionEnableAllTooltip": "Jeden Inhalt in dieser Kategorie einschalten.",
         "Interactable:ActionDisableAllTooltip": "Jeden Inhalt in dieser Kategorie ausschalten.",
         "Addons:ButtonOpenWorkshop": "Workshop-Seite öffnen.",
-        "Addons:ButtonOpenCodeEditor": "Im Codeeditor öffnen.",
         "Addons:ButtonOpenStockDirectory": "Stammverzeichnis öffnen.",
         "Addons:ButtonEditSettings": "Einstellungen bearbeiten.",
         "Addons:ButtonCreateOrReload": "Erweiterungen erstellen oder neu laden.",
