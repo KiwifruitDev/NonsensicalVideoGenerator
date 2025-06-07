@@ -164,8 +164,6 @@
         "Library:OutrosDescription": "Spielt beim Ende des Videos ab.",
         "Library:OverlaysDescription": "Benötigt reines grünes Chroma Key.",
         "Library:NoImagesDescription": "Keine Bildbibliotheken verfügbar.",
-        "Library:DownloadMedia": "Medien herunterladen",
-        "Library:DownloadMediaPasteURLS": "URL(s) einfügen",
         "Library:Downloading": "Herunterladen…",
         "Library:StatusDownloadedClip": "Clip heruntergeladen.",
         "Library:StatusFailDownloadClip": "Konnte Clip nicht herunterladen.",

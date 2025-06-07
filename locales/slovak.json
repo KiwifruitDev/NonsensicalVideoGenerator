@@ -174,8 +174,6 @@
         "Library:OutrosDescription": "Prehrávané na konci videa.",
         "Library:OverlaysDescription": "Potrebuje čisto zelenú chroma key.",
         "Library:NoImagesDescription": "Žiadne obrázkové knižnice nie sú dostupné.",
-        "Library:DownloadMedia": "Kliknite na stiahnutie médií",
-        "Library:DownloadMediaPasteURLS": "Prilepte URL médií na stiahnutie",
         "Library:Downloading": "Sťahovanie...",
         "Library:StatusDownloadedClip": "Klip stiahnutý.",
         "Library:StatusFailDownloadClip": "Sťahovanie klipu zlyhalo.",

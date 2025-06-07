@@ -173,8 +173,6 @@
         "Library:OutrosDescription": "Воспроизводится в конце видео.",
         "Library:OverlaysDescription": "Нужен зеленый/синий цветовой фон.",
         "Library:NoImagesDescription": "Нет изображений.",
-        "Library:DownloadMedia": "Нажмите, чтобы загрузить",
-        "Library:DownloadMediaPasteURLS": "Вставьте ссылку для загрузки",
         "Library:Downloading": "Скачивание...",
         "Library:StatusDownloadedClip": "Скачено.",
         "Library:StatusFailDownloadClip": "Не успешно скачено.",

@@ -173,8 +173,6 @@
         "Library:OutrosDescription": "Joué à la fin de la vidéo.",
         "Library:OverlaysDescription": "Nécessite un fond vert pur.",
         "Library:NoImagesDescription": "Aucune bibliothèque d'images disponible.",
-        "Library:DownloadMedia": "Télécharger médias",
-        "Library:DownloadMediaPasteURLS": "Collez URL pour télécharger",
         "Library:Downloading": "Téléchargement...",
         "Library:StatusDownloadedClip": "Clip téléchargé.",
         "Library:StatusFailDownloadClip": "Échec du téléchargement du clip.",
