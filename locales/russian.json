@@ -2,7 +2,8 @@
     "Metadata": {
         "LocalizedName": "Русский",
         "FontLarge": "LanaPixel",
-        "FontSmall": "LanaPixel"
+        "FontSmall": "LanaPixel",
+        "PreferDefaultOutroTextBelow": false
     },
     "Version0": {
         "DefaultOutro:CreatedWith": "Создано в",
@@ -150,8 +151,8 @@
         "Library:Title": "Библиотека",
         "Library:Tooltip": "Просмотр импортированных медии и предыдущие рендеры.",
         "Library:AskToDelete": "Удалить?",
-        "Library:BackButton": "Назад",
-        "Library:NextButton": "Далее",
+        "Library:NextPageDescription": "Следующая страница",
+        "Library:PreviousPageDescription": "Предыдущая страница",
         "Library:VideoTitle": "Видео",
         "Library:AudioTitle": "Аудио",
         "Library:ImageTitle": "Картина",
@@ -384,14 +385,6 @@
         "Interactable:BackTooltip": "Обратно в список дополн.",
         "Interactable:MuteTitle": "Заглушить музыку",
         "Interactable:MuteTooltip": "Заглушает музыку в приложении.",
-        "Interactable:Button1Title": "Следующая страница",
-        "Interactable:Button2Title": "Следующая страница",
-        "Interactable:Button3Title": "Предыдущая страница",
-        "Interactable:Button4Title": "Предыдущая страница",
-        "Interactable:Button5Title": "Продолжить",
-        "Interactable:ButtonFFmpegTitle": "Начать скачивание",
-        "Interactable:ButtonContinue3Title": "Просмотр страницу Мастерской",
-        "Interactable:ButtonContinue2Title": "Продолжить",
         "Interactable:BlogURLTitle": "Читать дольше",
         "Interactable:BlogURLTooltip": "Просмотр Стим объявления",
         "Interactable:ViewLocalizationOptionsTitle": "Выбор языка (%1)",
@@ -399,7 +392,6 @@
         "Interactable:UseColorblindThemeTitle": "Использовать тему дял дальтоник",
         "Interactable:CommonOptionsTitle": "Обычные настройки:",
         "Interactable:AdvancedOptionsTitle": "Дополнительные настройки:",
-        "Interactable:StreamerOptionsTitle": "Настройки для стримеров:",
         "Interactable:InterfaceOptionsTitle": "Настройки интерфейса:",
         "Interactable:MediaOptionsTitle": "Опции медии:",
         "Interactable:PreferencesTitle": "Предпочтения:",

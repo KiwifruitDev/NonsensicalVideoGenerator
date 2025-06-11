@@ -2,7 +2,8 @@
     "Metadata": {
         "LocalizedName": "Deutsch",
         "FontLarge": "Munro",
-        "FontSmall": "MunroSmall"
+        "FontSmall": "MunroSmall",
+        "PreferDefaultOutroTextBelow": false
     },
     "Version0": {
         "DefaultOutro:CreatedWith": "Erstellt mit",
@@ -143,8 +144,8 @@
         "Library:Title": "Bibliothek",
         "Library:Tooltip": "Importierte Dateien und vorherige Render ansehen.",
         "Library:AskToDelete": "Löschen?",
-        "Library:BackButton": "Zurück",
-        "Library:NextButton": "Weiter",
+        "Library:NextPageDescription": "Nächste Seite",
+        "Library:PreviousPageDescription": "Vorherige Seite",
         "Library:VideoTitle": "Video",
         "Library:AudioTitle": "Audio",
         "Library:ImageTitle": "Bild",
@@ -362,14 +363,6 @@
         "Interactable:BackTooltip": "Gehen Sie zur Addon-Liste zurück.",
         "Interactable:MuteTitle": "Hintergrundmusik stummschalten",
         "Interactable:MuteTooltip": "Schaltet die In-App Hintergrundmusik stumm.",
-        "Interactable:Button1Title": "Nächste Seite",
-        "Interactable:Button2Title": "Nächste Seite",
-        "Interactable:Button3Title": "Vorherige Seite",
-        "Interactable:Button4Title": "Vorherige Seite",
-        "Interactable:Button5Title": "Fortfahren",
-        "Interactable:ButtonFFmpegTitle": "Download starten",
-        "Interactable:ButtonContinue3Title": "Workshop-Seite ansehen",
-        "Interactable:ButtonContinue2Title": "Fortfahren",
         "Interactable:BlogURLTitle": "Mehr erfahren",
         "Interactable:BlogURLTooltip": "Ankündigungsevent auf Steam ansehen.",
         "Interactable:ViewLocalizationOptionsTitle": "Sprache Auswählen (%1)",
@@ -379,7 +372,6 @@
         "Interactable:UseColorblindThemeTooltip": "",
         "Interactable:CommonOptionsTitle": "Gewöhnliche Optionen:",
         "Interactable:AdvancedOptionsTitle": "Erweiterte Optionen:",
-        "Interactable:StreamerOptionsTitle": "Streamer-Optionen:",
         "Interactable:InterfaceOptionsTitle": "Oberflächen-Optionen:",
         "Interactable:MediaOptionsTitle": "Medienoptionen:",
         "Interactable:PreferencesTitle": "Einstellungen:",
