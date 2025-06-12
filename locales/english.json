@@ -204,7 +204,7 @@
         "Addons:StatusFailCreateWorkshopItem": "Error creating workshop item.",
         "Addons:StatusFailUpdateWorkshopItem": "Error updating workshop item.",
         "Addons:StatusFailWorkshopIcon": "Error publishing, no icon specified.",
-        "Addons:StatusFailNoBootMovies": "Error, no boot movies enabled.",
+        "Addons:StatusFailNoBootMoviesOrTransitions": "Error, no boot movies or transitions enabled.",
         "Addons:WorkshopIcon": "Workshop Icon",
         "Addons:UnknownName": "Unknown",
         "Addons:SwitchToggleAddon": "Click to toggle addon.",
