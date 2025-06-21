@@ -311,6 +311,7 @@
         "Interactable:ActionOptionsTooltip": "Change application settings.",
         "Interactable:ActionEnableAllTooltip": "Enable all content in this category.",
         "Interactable:ActionDisableAllTooltip": "Disable all content in this category.",
+        "Interactable:ActionOpenFolderTooltip": "Open this folder in the file explorer.",
         "Interactable:EnableTimeOutTooltip": "Cancel operations if they take too long.",
         "Interactable:TimeOutTitle": "Time Out",
         "Interactable:TimeOutTooltip": "How long until operations are canceled, in seconds.",
